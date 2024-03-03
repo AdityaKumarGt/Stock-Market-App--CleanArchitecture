@@ -47,6 +47,7 @@ This Android application provides users with access to stock market information 
 - Retrofit for Rest API integration
 - Room Database for Local Caching
 - Compose Destinations for Navigation
+- Lottie animation
 
 ## Acknowledgments
 - [Alpha Vantage API](https://www.alphavantage.co/) for providing an extensive array of stocks information.
