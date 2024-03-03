@@ -1,4 +1,6 @@
-<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/7fa86859-8c91-443f-8924-3573fd287a80" alt="app icon" width="150"> 
+<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/50458cc1-e88d-4861-a4f8-42baa000fc7d" alt="app icon" width="150"> 
+
+
 
 # Stock Market App 
 
@@ -29,13 +31,10 @@ This Android application provides users with access to stock market information 
 
 ## Screenshots
 
-<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/c62db1b2-395c-4299-a57e-b33a456fc88a" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/92a98a45-0571-40e9-b6fa-ada4fb727c4b" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/6f371030-0ff2-48b6-9a60-1b7aa6b6477d" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/230b6393-4035-4e20-991c-400c08102c23" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
+<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/2b131f16-69b6-4f21-98c1-ed7ecb660288" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/968c95fd-b488-413b-8961-0778aeb9f468" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/5a1d4df9-bb5e-4669-96db-91da39ca98cb" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/AdityaKumarGt/Stock-Market-App--CleanArchitecture/assets/121026525/102c363a-5125-495f-a087-b769c1e729d0" alt="SplashScreen" width="200">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 ## Technologies and Architecture Used:
